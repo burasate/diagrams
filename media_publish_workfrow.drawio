@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T08:57:19.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="r8NbvVW8NU0SNb8Y4r2B" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T09:02:06.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jbT90BEa3gUO8IsKUrPM" version="17.2.4" type="github">
   <diagram id="of_RLlrB_2hz9FLdzTqF" name="Page-1">
-    <mxGraphModel dx="2302" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yVefREUepP1LYkfDxUbQ-3" value="Maya Publish" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="310" height="405" as="geometry" />
+          <mxGeometry x="20" y="20" width="310" height="380" as="geometry" />
         </mxCell>
         <mxCell id="yVefREUepP1LYkfDxUbQ-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Playblast&lt;/font&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="30" y="165" width="290" height="30" as="geometry" />
+          <mxGeometry x="30" y="310" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yVefREUepP1LYkfDxUbQ-40" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="35.75" y="65" width="278.5" height="28" as="geometry" />
@@ -36,6 +36,21 @@
         </mxCell>
         <mxCell id="yVefREUepP1LYkfDxUbQ-39" value="1" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="yVefREUepP1LYkfDxUbQ-41">
           <mxGeometry y="20" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yVefREUepP1LYkfDxUbQ-43" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Publish&lt;/font&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yVefREUepP1LYkfDxUbQ-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="35.75" y="172" width="278.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yVefREUepP1LYkfDxUbQ-45" value="&lt;font style=&quot;font-size: 12px&quot;&gt;File Path :&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=right;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="yVefREUepP1LYkfDxUbQ-44">
+          <mxGeometry y="4" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yVefREUepP1LYkfDxUbQ-46" value="D:/project/movies/video.mov" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=right;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="yVefREUepP1LYkfDxUbQ-44">
+          <mxGeometry x="100" width="150" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yVefREUepP1LYkfDxUbQ-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/back-left-arrow-botton-128.png;fontSize=12;" vertex="1" parent="yVefREUepP1LYkfDxUbQ-44">
+          <mxGeometry x="260" y="4.75" width="18.5" height="18.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
